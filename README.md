@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Jie;My+interests+are+in....;Software+Engineering+%f0%9f%92%bb;Production+Engineering+%f0%9f%93%b0;and+Silicon+Engineering+%f0%9f%92%a0+" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Jie;My+interests+are+in....;Frontend+Engineer+%f0%9f%92%bb;" /></h1>
 </header>
 
 # Hey, I'm Anurag 🙌
@@ -36,11 +36,8 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jie-chen-777a2420a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-    <a href="https://www.reddit.com/user/570897055/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="LinkedIn" height="30" width="40"/></a>
+    <a href="www.linkedin.com/in/anuragadhikari01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
 
-<!-- Github Statistics -->
-## Statistics :chart_with_upwards_trend:
 
 
