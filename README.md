@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Jie;My+interests+are+in....;Frontend+Engineer+%f0%9f%92%bb;" /></h1>
+    <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=15&duration=3500&color=9370DB&center=true&vCenter=true&lines=Hi+I+am+Anurag Adhikari;My+interests+are+in....;Frontend+Engineer+%f0%9f%92%bb;" /></h1>
 </header>
 
 # Hey, I'm Anurag 🙌
